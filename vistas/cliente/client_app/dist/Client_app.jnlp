@@ -2,7 +2,7 @@
 <jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Client_app.jnlp">
   <information>
     <title>Client_app</title>
-    <vendor>Diego Andrï¿½s Bonilla</vendor>
+    <vendor>Diego Andrés Bonilla</vendor>
     <description>null</description>
     <offline-allowed/>
   </information>
@@ -13,6 +13,6 @@
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Client_app" >
     <param name="requiredFXVersion" value="8.0+"/>
   </applet-desc>
-  <jfx:javafx-desc  width="800" height="600" main-class="client_app.src.client_app.Client_app"  name="Client_app" />
+  <jfx:javafx-desc  width="800" height="600" main-class="client_app.Client_app"  name="Client_app" />
   <update check="always"/>
 </jnlp>
