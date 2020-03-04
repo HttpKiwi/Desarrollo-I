@@ -169,7 +169,7 @@ public class Controller {
 
 
 
-
+    //Controlador del LogIn
     @FXML
     public void log_in(ActionEvent event) throws Exception {
 
@@ -211,6 +211,8 @@ public class Controller {
        // gest_usr_editar_id_cb_buscar12.setItems(id_types);
     }
 
+
+    //Controlador de las pestañas y menues
     @FXML
     public void cambiar_pestana(MouseEvent event) throws Exception{
 
