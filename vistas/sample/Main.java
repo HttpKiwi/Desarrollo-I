@@ -12,6 +12,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
 
+        //--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml
 
 
         Parent root = FXMLLoader.load(getClass().getResource("Login.fxml"));
@@ -25,6 +26,7 @@ public class Main extends Application {
 
         primaryStage.setScene(login);
         primaryStage.show();
+
 
 
     }
