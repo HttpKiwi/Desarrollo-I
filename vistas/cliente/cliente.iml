@@ -8,8 +8,13 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lib" level="project" />
+<<<<<<< HEAD
     <orderEntry type="library" name="javafx-swt" level="application" />
     <orderEntry type="library" name="librerias" level="project" />
     <orderEntry type="library" name="Client_app" level="project" />
+=======
+    <orderEntry type="library" name="javase-3.3.0" level="project" />
+    <orderEntry type="library" name="jfreechart-1.0.19" level="project" />
+>>>>>>> master
   </component>
 </module>
